@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TPO1_SE_S23951/TPO1_SE_S23951.iml" filepath="$PROJECT_DIR$/TPO1_SE_S23951/TPO1_SE_S23951.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TPO2_SE_S23951/TPO2_SE_S23951.iml" filepath="$PROJECT_DIR$/TPO2_SE_S23951/TPO2_SE_S23951.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TPO_PJATK_ZADANIA.iml" filepath="$PROJECT_DIR$/.idea/TPO_PJATK_ZADANIA.iml" />
+    </modules>
+  </component>
+</project>
